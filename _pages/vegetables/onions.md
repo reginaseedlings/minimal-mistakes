@@ -7,7 +7,7 @@ feature_row1:
       image_caption: "Ailsa Craig Onion"
       alt: "Ailsa Craig Onion"
     - url: /vegetables/onions/CrystalWhiteWax/
-      image_path: /assets/images/vegetables/onions/oniions_CrystalWhiteWax.jpg
+      image_path: /assets/images/vegetables/onions/onions_CrystalWhiteWax.jpg
       image_caption: "Crystal White Wax Onion"
       alt: "Crystal White Wax Onion"
     - url: /vegetables/onions/Kelsae/
