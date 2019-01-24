@@ -22,9 +22,6 @@ feature_row1:
       image_path: /assets/images/vegetables/onions/onions_SouthportWhiteGlobe.jpg
       alt: "Southport White Globe Onion"
       title: "Southport White Globe Onion"
-feature_row2:
-    - url:
 ---
-<br/>
 <br/>
 {% include feature_row id="feature_row1" %}
