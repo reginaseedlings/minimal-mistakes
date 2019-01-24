@@ -27,6 +27,16 @@ feature_row1:
       alt: "Southport White Globe Onion"
       title: "Southport White Globe Onion"
       btn_class: "btn--inverse"
+    - url: /vegetables/onions/TokyoLongWhite/
+      image_path: /assets/images/vegetables/onions/onions_TokyoLongWhite.jpg
+      alt: "Tokyo Long White Onion"
+      title: "Tokyo Long White Onion"
+      btn_class: "btn--inverse"
+    - url: /vegetables/onions/WhiteSweetSpanish/
+      image_path: /assets/images/vegetables/onions/onions_WhiteSweetSpanish.jpg
+      alt: "White Sweet Spanish Onion"
+      title: "White Sweet Spanish Onion"
+      btn_class: "btn--inverse" 
 ---
 <br/>
 {% include feature_row id="feature_row1" %}
