@@ -30,5 +30,7 @@ feature_row1:
 feature_row2:
     - url:
 ---
-
+<br/>
+<br/>
+<br/>
 {% include feature_row id="feature_row1" %}
