@@ -38,6 +38,6 @@ feature_row1:
       title: "White Sweet Spanish Onion"
       btn_class: "btn--inverse" 
 ---
-<br/>
 <h1>Onions</h1>
+<br/>
 {% include feature_row id="feature_row1" %}
