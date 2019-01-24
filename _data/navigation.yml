@@ -11,7 +11,7 @@ main:
      url: /vegetables/
    - title: "Herbs"
      url: /herbs/
-     title: "Fruits & Berries"
+   - title: "Fruits & Berries"
      url: /fruits-and-berries/
-     title: "Flowers"
+   - title: "Flowers"
      url: /flowers/
