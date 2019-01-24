@@ -15,3 +15,5 @@ main:
      url: /fruits-and-berries/
    - title: "Flowers"
      url: /flowers/
+   - title: "Garden Guides"
+     url: /guides/
