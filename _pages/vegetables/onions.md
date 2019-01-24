@@ -6,22 +6,27 @@ feature_row1:
       image_path: /assets/images/vegetables/onions/onions_AilsaCraig.jpg
       alt: "Ailsa Craig Onion"
       title: "Ailsa Craig Onion"
+      btn_class: "btn--inverse"
     - url: /vegetables/onions/CrystalWhiteWax/
       image_path: /assets/images/vegetables/onions/onions_CrystalWhiteWax.jpg
       alt: "Crystal White Wax Onion"
       title: "Crystal White Wax Onion"
+      btn_class: "btn--inverse"
     - url: /vegetables/onions/Kelsae/
       image_path: /assets/images/vegetables/onions/onions_Kelsae.jpg
       alt: "Kelsae Onion"
       title: "Kelsae Onion"
+      btn_class: "btn--inverse"
     - url: /vegetables/onions/RubyRedLongDay/
       image_path: /assets/images/vegetables/onions/onions_RubyRedLongDay.jpg
       alt: "Ruby Red Long Day Onion"
       title: "Ruby Red Long Day Onion"
+      btn_class: "btn--inverse"
     - url: /vegetables/onions/SouthportWhiteGlobe/
       image_path: /assets/images/vegetables/onions/onions_SouthportWhiteGlobe.jpg
       alt: "Southport White Globe Onion"
       title: "Southport White Globe Onion"
+      btn_class: "btn--inverse"
 ---
 <br/>
 {% include feature_row id="feature_row1" %}
