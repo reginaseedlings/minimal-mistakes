@@ -13,11 +13,5 @@ gallery:
     
 ---
 ![image-left](/assets/images/vegetables/onions/onions_AilsaCraig.jpg){: .align-left}
-![image-center](/assets/images/vegetables/onions/onions_Kelsae.jpg){: .align-center}
-</br>
-left
-{: .text-left}
-center
-{: .text-center}
-right
-{: .text-right}
+![image-center](/assets/images/vegetables/onions/onions_Kelsae.jpg){: .align-center}<br/>
+left{: .text-left}center{: .text-center}right{: .text-right}
