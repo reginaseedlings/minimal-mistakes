@@ -3,11 +3,15 @@ main:
   
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Seeds"
-     url: /seeds/
-   - title: "Garden Guides"
-     url: /guides/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "Seeds"
+  #   url: /seeds/
+  # - title: "Garden Guides"
+  #   url: /guides/
+   - title: "Vegetables"
+     url: /vegetables/
+   - title: "Herbs"
+     url: /herbs/
+     title: "Fruits & Berries"
+     url: /fruits-and-berries/
+     title: "Flowers"
+     url: /flowers/
