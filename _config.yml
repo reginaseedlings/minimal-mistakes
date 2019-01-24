@@ -72,6 +72,9 @@ algolia:
   index_name             : "ReginaSeedlings" # YOUR_INDEX_NAME
   search_only_api_key    : "7e75841bfe1ecaa04747a2212189e223" # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : false # true (default), false
+  extensions_to_index    : 
+                            - html
+                            - md
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
