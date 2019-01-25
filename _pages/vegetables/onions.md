@@ -1,10 +1,8 @@
 ---
 layout: splash
 permalink: /vegetables/onions/
+title: Onions
 feature_row1: 
-    - url: /vegetables/onions/AilsaCraig/
-      image_path: /assets/images/vegetables/onions/onions_AilsaCraig.jpg
-      alt: "Ailsa Craig Onion"
       title: "Ailsa Craig Onion"
       btn_class: "btn--inverse"
     - url: /vegetables/onions/CrystalWhiteWax/
