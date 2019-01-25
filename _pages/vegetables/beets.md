@@ -13,7 +13,7 @@ feature_row1:
       alt: "Early Wonder Tall Top Beet"
       title: "Early Wonder Tall Top Beet"
       btn_class: "btn--inverse"
-      ---
+---
 <br/>
 <h1>Beets</h1>
 {% include feature_row id="feature_row1" %}
