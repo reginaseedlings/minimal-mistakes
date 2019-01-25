@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /vegetables/onions/
+permalink: /vegetable/onions/
 title: Onions
 feature_row1: 
       title: "Ailsa Craig Onion"
