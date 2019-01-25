@@ -3,8 +3,6 @@ layout: splash
 permalink: /vegetables/lettuce/
 title: Lettuce
 feature_row1: 
-      title: "Ailsa Craig Onion"
-      btn_class: "btn--inverse"
     - url: /vegetables/onions/CrystalWhiteWax/
       image_path: /assets/images/vegetables/onions/onions_CrystalWhiteWax.jpg
       alt: "Crystal White Wax Onion"

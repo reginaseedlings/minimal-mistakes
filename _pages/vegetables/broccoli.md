@@ -8,7 +8,7 @@ feature_row1:
       alt: "Purple Broccoli"
       title: "Purple Broccoli"
       btn_class: "btn--inverse"
-      ---
+---
 <br/>
 <h1>Broccoli</h1>
 {% include feature_row id="feature_row1" %}
