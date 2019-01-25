@@ -3,10 +3,10 @@ layout: splash
 permalink: /vegetables/
 title: Vegetables
 feature_row1: 
-    - url: /vegetables/beets/
-      image_path: /assets/images/vegetables/beets/beets_main.jpg
-      alt: "Beets"
-      title: "Beets"
+    - url: /vegetables/beetroot/
+      image_path: /assets/images/vegetables/beetroot/beets_main.jpg
+      alt: "Beetroot"
+      title: "Beetroot"
       btn_class: "btn--inverse"
     - url: /vegetables/broccoli/
       image_path: /assets/images/vegetables/broccoli/broccoli_main.jpg
